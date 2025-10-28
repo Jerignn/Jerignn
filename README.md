@@ -1,5 +1,4 @@
-<h1 align="center">Meowww ![Uploading image.png…]()
- I'm Jeremiah</h1>
+<h1 align="center">Meowww~~ ฅᨐฅ I'm Jeremiah</h1>
 <h3 align="center">💻 Computer Science Student | Aspiring Full Stack Developer</h3>
 
 ###
