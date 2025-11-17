@@ -1,5 +1,5 @@
 <h1 align="center">Meowww~~ ฅᨐฅ I'm Jeremiah</h1>
-<h3 align="center">💻 Computer Science Student | Aspiring Full Stack Developer</h3>
+<h3 align="center">💻 Computer Science Student | Universtity of the Immaculate Conception</h3>
 
 ###
 
