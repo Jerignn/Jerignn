@@ -1,4 +1,4 @@
-<h1 align="center">Meowww~~ ฅᨐฅ I'm Jeremiah</h1>
+<h1 align="center">Hello I'm Jeremiah !</h1>
 <h3 align="center">💻 Computer Science Student | Universtity of the Immaculate Conception</h3>
 
 ###
