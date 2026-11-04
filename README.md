@@ -1,5 +1,5 @@
 <h1 align="center">Hello I'm Jeremiah !</h1>
-<h3 align="center">💻 Computer Science Student | Universtity of the Immaculate Conception</h3>
+<h3 align="center">💻 Full - Stack Developer | JavaScript | Learning Everyday </h3>
 
 ###
 
