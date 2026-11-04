@@ -40,12 +40,6 @@ I'm a Front-End Developer and BS Computer Science student in the Philippines. I 
 
 More on my [portfolio](https://my-portfolio-jeremiahignacio.vercel.app).
 
-## Currently
-
-- Front-End Developer Intern at CertiCode (since July 2026)
-- Deepening my React, Next.js and Laravel skills
-- Open to junior front-end and web developer opportunities
-
 ---
 
 <p align="center">
