@@ -36,8 +36,6 @@ I'm a Front-End Developer and BS Computer Science student in the Philippines. I 
 | **[Portfolio](https://my-portfolio-jeremiahignacio.vercel.app)** | Personal portfolio with a live GitHub activity feed and real-time comments over WebSockets. | React, Vite, Tailwind CSS, Laravel Reverb |
 | **BoardEase CMS** | Boarding-house management system: owner dashboard for rooms, tenants, bills and announcements, plus a tenant portal with role-based login. | React 19, Laravel 12, Sanctum, SQLite |
 | **[StarClash](https://starclash-xi.vercel.app)** | Neon space shooter with one-finger controls, seven waves per stage and boss fights. Playable in the browser. | JavaScript, Godot, Vercel |
-| **[K&R Website](https://revised-k-r-website.vercel.app)** | Responsive business website. | JavaScript, Vercel |
-| **[Rosenberg HVAC](https://rosenberghvac.vercel.app)** | Responsive marketing site for an HVAC business. | JavaScript, Vercel |
 
 More on my [portfolio](https://my-portfolio-jeremiahignacio.vercel.app).
 
