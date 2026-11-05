@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a Front-End Developer and BS Computer Science student in the Philippines. I currently work as a Front-End Developer Intern at **CertiCode**, where I build reusable React components, page layouts and API-driven screens with React, Tailwind CSS and Git-based team workflows. Before that I built a boarding-house website as a junior front-end developer at JACE.
+I'm a Front-End Developer and BS Computer Science student in the Philippines. I currently work as a Front-End Developer Intern at **CertiCode/ElevenChase** , where I build reusable React components, page layouts and API-driven screens with React, Tailwind CSS and Git-based team workflows. Before that I built a boarding-house website as a junior front-end developer at JACE.
 
 ## Tech Stack
 
